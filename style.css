@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background: url(./headerr.jpg) no-repeat center center/cover fixed ;
+    height: 140vh;
+
+}
+
+.nav-link{
+    color: rgb(8, 248, 8);
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: rgb(1, 26, 1);
+}
+.navbar-brand{
+    font-size: 1.6rem;
+    height: 50px;
+    width: 50px;
+    padding: 5px 16px!important;
+    border: 5px solid #00d646;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 50px;
+    color: #00d646!important;
+}
+.tegi{
+    width: 80%;
+    height: 39vh;
+    background:rgb(4, 4, 37);
+    margin-left: 100px;
+}
+.brand-teg{
+    font-size: 2.4rem;
+    height: 70px;
+    width: 70px;
+    padding: -50px;
+}
